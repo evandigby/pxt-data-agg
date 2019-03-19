@@ -4,7 +4,8 @@
     "description": "Sharing data for good.",
     "dependencies": {
         "core": "*",
-        "bluetooth": "*"
+        "bluetooth": "*",
+        "filesystem": "*"
     },
     "files": [
         "README.md",
